@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋
   
 
-### <div align="center">I'm Filip, a full-time iOS and Web Developer 👨‍💻 also code artist 🧑‍🎨
+### <div align="center">I'm Filip, a full-time Creative Web Developer 👨‍💻 also code artist 🧑‍🎨
   
 <br/>  
 
