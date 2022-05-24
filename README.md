@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋
   
 
-### <div align="center">I'm Filip, a full-time design-focused Web Developer with ~2 years of experience 👨‍💻 also code artist 🧑‍🎨
+### <div align="center">I'm Filip, a full-time design-focused Web Developer with 2 years of experience 👨‍💻 also code artist 🧑‍🎨
   
 <br/>  
 
